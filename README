@@ -1,0 +1,1 @@
+Arduino interface to a telegraph key and sounder. Intended for use with Twitter although it could be reused for other (equally pointless) purpose.  This software is licensed under the FreeBSD License.
